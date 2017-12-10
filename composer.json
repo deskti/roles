@@ -1,12 +1,12 @@
 {
-    "name": "bican/roles",
+    "name": "deskti/roles",
     "description": "Powerful package for handling roles and permissions in Laravel 5.",
     "keywords": ["roles", "permissions", "acl", "auth", "laravel", "illuminate"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Roman Bičan",
-            "email": "romanbican@seznam.cz"
+            "name": "Derskti Bican Roles",
+            "email": "marcos.deskti@gmail.com"
         }
     ],
     "require": {
